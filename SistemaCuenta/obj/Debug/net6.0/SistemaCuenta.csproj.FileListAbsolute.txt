@@ -1,0 +1,15 @@
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\bin\Debug\net6.0\SistemaCuenta.exe
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\bin\Debug\net6.0\SistemaCuenta.deps.json
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\bin\Debug\net6.0\SistemaCuenta.runtimeconfig.json
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\bin\Debug\net6.0\SistemaCuenta.dll
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\bin\Debug\net6.0\SistemaCuenta.pdb
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.csproj.AssemblyReference.cache
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.AssemblyInfoInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.AssemblyInfo.cs
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.csproj.CoreCompileInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.dll
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\refint\SistemaCuenta.dll
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.pdb
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\SistemaCuenta.genruntimeconfig.cache
+C:\Users\josty\OneDrive\Documentos\C#\SistemaCuenta\obj\Debug\net6.0\ref\SistemaCuenta.dll
